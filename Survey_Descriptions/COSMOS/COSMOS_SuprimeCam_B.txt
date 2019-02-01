@@ -27,4 +27,4 @@ Depth per visit: N/A
 Exptime per visit: N/A
 URL to survey layout:
 URL to depth map layout:
-URL to spectral response file: ./filters/COSMOS_SuprimeCam_B.res
+URL to spectral response file: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/filters/COSMOS_SuprimeCam_B.res
