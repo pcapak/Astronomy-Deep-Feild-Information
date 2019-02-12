@@ -1,0 +1,32 @@
+Unique identifier:  PS1_MD04_g
+Survey name: Pan-STARRs1
+Field name: MD04
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 150.000 +02.200
+Location:  10 00 00        +02 12 00
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.2
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633]
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55074.600
+Modified Julian Date end: 56673.200
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [87,86,1000,1145,xx]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
