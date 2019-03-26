@@ -1,0 +1,804 @@
+Unique identifier:  PS1_MD01
+Survey name: Pan-STARRs1
+Field name: MD01
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 35.875	-4.250
+Location:  02 23 30.00    -04 15 00.00
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55074.600
+Modified Julian Date end: 56673.200
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [90,93,103,129,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  PS1_MD02
+Survey name: Pan-STARRs1
+Field name: MD02
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 53.100	-27.800
+Location:  03 32 24.00    -27 48 00.00
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55086.600  
+Modified Julian Date end: 56681.300
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [82,70 ,84,112,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  PS1_MD03
+Survey name: Pan-STARRs1
+Field name: MD03
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 130.592	+44.317
+Location:  08 42 22.08    44 19 01.20 
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55161.500  
+Modified Julian Date end: 56681.500
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [85,80,109,131,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  PS1_MD04
+Survey name: Pan-STARRs1
+Field name: MD04
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 150.000 +02.200
+Location:  10 00 00.00    02 12 00.00
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55161.600
+Modified Julian Date end: 56754.300
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [75,76,86,91,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  PS1_MD05
+Survey name: Pan-STARRs1
+Field name: MD05
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 161.917	+58.083
+Location:  10 47 40.08    58 04 58.80
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55161.600
+Modified Julian Date end: 56754.300
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [94,88,94,102,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  PS1_MD06
+Survey name: Pan-STARRs1
+Field name: MD06
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 185.000	+47.117
+Location:  12 20 00.00    47 07 01.20
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 54980.400  
+Modified Julian Date end: 56754.400
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [91,92,123,126,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  PS1_MD07
+Survey name: Pan-STARRs1
+Field name: MD07
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 213.704	+53.083
+Location:  14 14 48.96    53 04 58.80 
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 54979.500  
+Modified Julian Date end: 56511.300
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [94,90,117,122,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  PS1_MD08
+Survey name: Pan-STARRs1
+Field name: MD08
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 242.787		+54.950	
+Location:  16 11 08.88    54 57 00.00
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 54979.500  
+Modified Julian Date end: 56541.300
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey:  [87,91,91,107,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  PS1_MD09
+Survey name: Pan-STARRs1
+Field name: MD09
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 334.188		+0.283
+Location:  22 16 45.12    00 16 58.80
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55011.600  
+Modified Julian Date end: 56628.200
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [106,88,95,108,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  PS1_MD10
+Survey name: Pan-STARRs1
+Field name: MD10
+Telescope: Pan-STARRs
+Instrument: Pan-STARRs
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 352.312		-0.433
+Location:  23 29 14.88    -00 25 58.80 
+Data status: Acquired
+Area of data set: 7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.25, 1.15, 1.05, 1.03,1.10]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, 3pi data and explanation here - https://outerspace.stsci.edu/display/PANSTARRS/PS1+Description+of+the+surveys
+Citation: https://iopscience.iop.org/article/10.3847/1538-4357/aab9bb/meta
+Modified Julian Date start: 55074.600  
+Modified Julian Date end: 56632.200
+Definition of nominal 'visit' unit: [8x113,8x113,8x240,8x240,8x240]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 6 days
+Depth per visit: [23.1,23.3,23.2,22.8,21.9]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_C1
+Survey name: DES
+Field name: C1
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 54.2742917    -27.1116111
+Location:  03:37:05.83	       -27:06:41.8
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_C2
+Survey name: DES
+Field name: C2
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 54.2742917    -29.0883889
+Location:  03:37:05.83	       -29:05:18.2
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  DES_C3
+Survey name: DES
+Field name: C3
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 52.6484167    -28.1000000 
+Location:  03:30:35.62	       -28:06:00.0
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 55074.600  
+Modified Julian Date end: 56632.200
+Definition of nominal 'visit' unit: [3x600,3x1200,5x1800,11x3630]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [24.6,24.8,24.7,24.4]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  DES_E1
+Survey name: DES
+Field name: E1
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 7.8744167    -43.0096111
+Location:  00:31:29.86	       -43:00:34.6
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_E2
+Survey name: DES
+Field name: E2
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 9.5000000    -43.9980000 
+Location:  00:38:00.00	       -43:59:52.8
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_S1
+Survey name: DES
+Field name: S1
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 42.8200000    0.0000000 
+Location:  02:51:16.80	       +00:00:00.0
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_S2
+Survey name: DES
+Field name: S2
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 41.1944167    -0.9883889 
+Location:  02:44:46.66	       -00:59:18.2
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_X1
+Survey name: DES
+Field name: X1
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 34.4757083    -4.9295000
+Location:  02:17:54.17	       -04:55:46.2
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_X2
+Survey name: DES
+Field name: X2
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 35.6645000    -6.4121111 
+Location:  02:22:39.48	       -06:24:43.6
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 56534 
+Modified Julian Date end: 58134
+Definition of nominal 'visit' unit: [1x175,1x150,1x200,2x400]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [23,7,23.6,23.5,23.3]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  DES_X3
+Survey name: DES
+Field name: X3
+Telescope: CTIO
+Instrument: DECam
+Data type: Image
+Data name: [g,r,i,z,y]
+Location: 36.4500000    -4.6000000
+Location:  02:25:48.00	       -04:36:00.0
+Data status: Acquired
+Area of data set: 2.7 sq deg
+Pixel size: 0.25’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [25.8, 25.7, 25.8, 25.4, 24.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://arxiv.org/pdf/1811.09565.pdf
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 55074.600  
+Modified Julian Date end: 56632.200
+Definition of nominal 'visit' unit: [3x600,3x1200,5x1800,11x3630]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [24.6,24.8,24.7,24.4]
+Exptime per visit: [8x113,8x113,8x240,8x240,8x240]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  LSST_ELAISS1
+Survey name: LSST
+Field name: ELAISS1
+Telescope: LSST
+Instrument: LSST
+Data type: Image
+Data name: [u,g,r,i,z,y]
+Location: 00 37 48    	-44 00 00
+Location:  9.4500000    -44.0000000
+Data status: Planned
+Area of data set: 10 sq deg
+Pixel size: 0.20’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [28.5,28.7,28.9,28.4,28.0,27.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://community.lsst.org/t/deep-drilling-whitepapers/732
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 55074.600  
+Modified Julian Date end: 56632.200
+Definition of nominal 'visit' unit: [0,20,40,40,52,40]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [24,25.3,25.8,25.3,24.9,24.0]
+Exptime per visit: [2x15,2x15,2x15,2x15,2x15,2x15]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  LSST_XMMLSS
+Survey name: LSST
+Field name: XMMLSS
+Telescope: LSST
+Instrument: LSST
+Data type: Image
+Data name: [u,g,r,i,z,y]
+Location: 02 22 50   	-04 45 00
+Location:  35.7083333    -4.7500000
+Data status: Planned
+Area of data set: 10 sq deg
+Pixel size: 0.20’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [28.5,28.7,28.9,28.4,28.0,27.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://community.lsst.org/t/deep-drilling-whitepapers/732
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 55074.600  
+Modified Julian Date end: 56632.200
+Definition of nominal 'visit' unit: [0,20,40,40,52,40]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [24,25.3,25.8,25.3,24.9,24.0]
+Exptime per visit: [2x15,2x15,2x15,2x15,2x15,2x15]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+Unique identifier:  LSST_ECDFS
+Survey name: LSST
+Field name: ECDFS
+Telescope: LSST
+Instrument: LSST
+Data type: Planned
+Data name: [u,g,r,i,z,y]
+Location: 03 32 30  -28 06 00
+Location:  53.1250000    -28.1000000
+Data status: Acquired
+Area of data set: 10 sq deg
+Pixel size: 0.20’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [28.5,28.7,28.9,28.4,28.0,27.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://community.lsst.org/t/deep-drilling-whitepapers/732
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 55074.600  
+Modified Julian Date end: 56632.200
+Definition of nominal 'visit' unit: [0,20,40,40,52,40]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [24,25.3,25.8,25.3,24.9,24.0]
+Exptime per visit: [2x15,2x15,2x15,2x15,2x15,2x15]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
+Unique identifier:  LSST_COSMOS
+Survey name: LSST
+Field name: COSMOS
+Telescope: LSST
+Instrument: LSST
+Data type: Image
+Data name: [u,g,r,i,z,y]
+Location: 10 00 24   +02 10 55
+Location:  150.1000000    2.1819444
+Data status: Acquired
+Area of data set: 10 sq deg
+Pixel size: 0.20’’
+Total integration time: 1.0
+Average PSF FWHM: [1.41,1.29,1.17,1.09]
+Total point source sensitivity: [28.5,28.7,28.9,28.4,28.0,27.0]
+Effective wavelength: [4866,6215,7545,8679,9633] 
+Spectral resolution: 5
+Min wavelength: [3990,5430,6830,8090,9140]
+Max wavelength: [5550,6970,8250,9290,10360]
+URL to data if public: Not Public, explanation here - https://community.lsst.org/t/deep-drilling-whitepapers/732
+Citation: hhttps://arxiv.org/pdf/1811.09565.pdf
+Modified Julian Date start: 55074.600  
+Modified Julian Date end: 56632.200
+Definition of nominal 'visit' unit: [0,20,40,40,52,40]
+Total number of visits over survey: [90,89,93,109,50]
+Cadence Type: None
+Average Cadence: 8 days
+Depth per visit: [24,25.3,25.8,25.3,24.9,24.0]
+Exptime per visit: [2x15,2x15,2x15,2x15,2x15,2x15]
+URL to survey layout: https://github.com/pcapak/Astronomy-Deep-Feild-Information/blob/master/Survey_Descriptions/COSMOS/reg/COSMOS_SuprimeCam_B.reg
+URL to depth map layout:
+URL to spectral response file: http://adsabs.harvard.edu/abs/2012ApJ...750...99T
+
+
